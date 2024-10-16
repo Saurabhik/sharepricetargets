@@ -6,4 +6,4 @@ Let add a code block
  FROM sys.tables
  WHERE [name] = 'SomeTable'
  ```
-add may be some more text 
+add may be some more text 'inline code'.
